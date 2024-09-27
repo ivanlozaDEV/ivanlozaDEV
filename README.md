@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm web developer from Ecuador, <br><br>- 💼 With a background in entrepreneurship, and air traffic control that has equipped me with a strong problem-solving mindset, exceptional time management skills, and a passion for delivering high-quality solutions.<br><br>- Bilingual :us: & :es:<br><br>- :dart: Looking to collaborate on more projects to keep honing my programming skills and build user friendly and platforms</p>
+<p align="left">I'm web developer from Ecuador. <br><br>- 💼 With a background in entrepreneurship, and air traffic control that has equipped me with a strong problem-solving mindset, exceptional time management skills, and a passion for delivering high-quality solutions.<br><br>- Bilingual :us: & :es:<br><br>- :dart: Looking to collaborate on more projects to keep honing my programming skills and build user friendly and platforms</p>
 
 ###
 
